@@ -1,6 +1,5 @@
 # 🍕 Pizza Sales Analysis Dashboard (SQL + Power BI)
 
-# 🍕 Pizza Sales Analysis Dashboard
 
 This project is a complete data analytics case study that explores a pizza restaurant's sales data to derive business insights using SQL and Power BI.
 
@@ -74,7 +73,7 @@ Lowest performing pizzas can be optimized or discontinued
 📬 Contact
 Abhishek Sharma
 📧 sumitsharma63487@gmail.com
-🔗 www.linkedin.com/in/er-abhishek-sharma-66a00322a
-🔗 https://github.com/abhisheksharma000
+🔗Linked In :  www.linkedin.com/in/er-abhishek-sharma-66a00322a
+🔗 Github : https://github.com/abhisheksharma000
 
 
